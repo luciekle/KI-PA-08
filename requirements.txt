@@ -7,5 +7,4 @@ pandas
 seaborn
 opencv
 opencv-contrib-python
-sklearn.metrics
-sklearn.model_selection
+scikit-learn (sklearn.metrics, sklearn.model_selection)
