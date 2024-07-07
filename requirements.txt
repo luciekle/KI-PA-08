@@ -2,3 +2,10 @@ torch
 torchvision
 numpy
 matplotlib
+
+pandas
+seaborn
+opencv
+opencv-contrib-python
+sklearn.metrics
+sklearn.model_selection
